@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\bin\Debug\interfacePolymorphism.exe.config
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\bin\Debug\interfacePolymorphism.exe
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\bin\Debug\interfacePolymorphism.pdb
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\obj\Debug\interfacePolymorphism.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\obj\Debug\interfacePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\obj\Debug\interfacePolymorphism.exe
+C:\Users\ACER\source\repos\interfacePolymorphism\interfacePolymorphism\obj\Debug\interfacePolymorphism.pdb
